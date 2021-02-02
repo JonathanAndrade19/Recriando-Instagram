@@ -7,3 +7,5 @@ um curso oferecido pela DIO.
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Let's code! 🚀
+
+### vocês veram imagens de como ficou essa Recriagem incrivel.
